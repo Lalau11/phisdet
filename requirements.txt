@@ -14,7 +14,6 @@ pyls-spyder==0.4.0
 PyQt5==5.15.7
 PyQtWebEngine==5.15.4
 python-lsp-jsonrpc==1.0.0
-pywin32==305.1
 pywin32-ctypes==0.2.0
 PyYAML==6.0
 scikit-learn==1.2.2
